@@ -3,6 +3,7 @@
  */
 
 package com.expensemanager;
+import com.expensemanager.config.DBConnection;
 
 /**
  *
@@ -11,6 +12,7 @@ package com.expensemanager;
 public class PersonalExpenseManagementSystem {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        DBConnection.getConnection();
+        
     }
 }

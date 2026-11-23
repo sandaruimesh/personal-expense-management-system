@@ -1,2 +1,7 @@
-com\expensemanager\config\DBConnection.class
 com\expensemanager\PersonalExpenseManagementSystem.class
+com\expensemanager\ExpenseManagerFrame$1.class
+com\expensemanager\ExpenseManagerFrame.class
+com\expensemanager\ExpenseManagerFrame$CategoryItem.class
+com\expensemanager\ExpenseManagerFrame$CategoryChart.class
+com\expensemanager\config\DBConnection.class
+com\expensemanager\MainFrame.class
